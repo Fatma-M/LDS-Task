@@ -1,0 +1,70 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "Patient-1",
+      "doctorName": "Doctor-1",
+      "entryDate": "1 Jun 2023",
+      "checkoutDate": "30 Jun 2023",
+      "totalPayment": 200
+    },
+    {
+      "name": "Patient-2",
+      "doctorName": "Doctor-2",
+      "entryDate": "1 May 2023",
+      "checkoutDate": "30 May 2023",
+      "totalPayment": 200,
+      "id": 2
+    },
+    {
+      "name": "Patient-3",
+      "doctorName": "Doctor-3",
+      "entryDate": "5 May 2022",
+      "checkoutDate": "30 Jun 20232",
+      "totalPayment": 10000,
+      "id": 3
+    }
+  ],
+  "employees": [
+    {
+      "name": "Employee-1",
+      "title": "Dentist",
+      "startDate": "11 May 2020",
+      "salary": 15000,
+      "place": "Cairo",
+      "workingType": "Part-Time",
+      "responsibilities": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Employee-2",
+      "title": "Supervisor",
+      "startDate": "1 Jan 2019",
+      "salary": 35000,
+      "place": "Cairo",
+      "workingType": "Full-Time",
+      "responsibilities": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "name": "Employee-3",
+      "title": "Nurse",
+      "startDate": "20 Feb 2022",
+      "salary": 8000,
+      "place": "Cairo",
+      "workingType": "Full-Time",
+      "responsibilities": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "id": 3
+    },
+    {
+      "name": "Employee-4",
+      "title": "Security Guard",
+      "startDate": "20 Feb 2023",
+      "salary": 5000,
+      "place": "Cairo",
+      "workingType": "Full-Time",
+      "responsibilities": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+<template>
+  <NavBar />
+  <router-view />
+</template>
+
+<script>
+import NavBar from "@/components/NavBar.vue";
+export default {
+  components: { NavBar },
+};
+</script>
+
+<style lang="scss">
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none !important;
+}
+</style>
